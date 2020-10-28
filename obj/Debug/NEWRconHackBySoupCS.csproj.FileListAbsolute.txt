@@ -1,0 +1,12 @@
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\obj\Debug\NEWRconHackBySoupCS.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\obj\Debug\NEWRconHackBySoupCS.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\NEWRconHackBySoupCS.exe.config
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\NEWRconHackBySoupCS.exe
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\NEWRconHackBySoupCS.pdb
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\obj\Debug\NEWRconHackBySoupCS.exe
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\obj\Debug\NEWRconHackBySoupCS.pdb
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\MinecraftServerRCON.dll
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\RCONServerLib.dll
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\bin\Debug\xNet.dll
+C:\Users\Алексей\source\repos\NEWRconHackBySoupCS\obj\Debug\NEWRconHackBySoupCS.csproj.CopyComplete
