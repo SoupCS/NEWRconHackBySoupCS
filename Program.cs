@@ -13,8 +13,6 @@ namespace NEWRconHackBySoupCS
     {
         static void Main(string[] args)
         {
-            ///password generating
-
             ///port generating
             //var chars2 = "0123456789";
             //var stringChars2 = new char[5];
@@ -61,6 +59,7 @@ namespace NEWRconHackBySoupCS
 
             while (true)
             {
+            ///password generating
             passss:
                 var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
                 var stringChars = new char[18];
@@ -71,6 +70,7 @@ namespace NEWRconHackBySoupCS
                 }
                 var Pass = new String(stringChars);
 
+                ///Connect using generates password
                 using (var rcon = RCONClient.INSTANCE)
                 {
                     try
